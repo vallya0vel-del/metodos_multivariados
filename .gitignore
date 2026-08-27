@@ -1,0 +1,10 @@
+# Entornos y caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Configuracion local
+.vscode/
+
+# Archivos generados
+*.pyc
