@@ -1,11 +1,12 @@
-# Notebooks Multivariados
+# Notebooks Multivariados Vidal
 
 ## Estructura
 
 - `notebooks/`: tareas en formato `.ipynb`.
 - `requirements.txt`: paquetes necesarios para ejecutar las tareas.
+- `data/`: datos necesarios para notebooks
 
-## Uso local
+## Uso
 
 ```bash
 python -m venv .venv
