@@ -8,3 +8,6 @@ __pycache__/
 
 # Archivos generados
 *.pyc
+
+# Datos demasiado grandes para GitHub (>100 MB); descargar aparte
+data/credits.csv
