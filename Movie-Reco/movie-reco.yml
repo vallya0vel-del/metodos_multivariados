@@ -5,10 +5,13 @@ channels:
 dependencies:
   - python=3.11
   - pandas
-  - numpy
+  - numpy<2.0
   - scipy
   - scikit-learn
   - matplotlib
   - seaborn
   - nltk
   - jupyterlab
+  - pip
+  - pip:
+      - scikit-surprise

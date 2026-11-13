@@ -11,3 +11,4 @@ __pycache__/
 
 # Datos demasiado grandes para GitHub (>100 MB); descargar aparte
 data/credits.csv
+.venv-surprise/
